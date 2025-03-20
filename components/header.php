@@ -19,11 +19,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="faq.html">FAQs</a>
+                    <a class="nav-link" href="faq.php">FAQs</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Nous Contacter</a>
+                    <a class="nav-link" href="contact.php">Nous Contacter</a>
                 </li>
             </ul>
         </div>

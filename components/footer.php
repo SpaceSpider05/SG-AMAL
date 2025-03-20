@@ -16,7 +16,7 @@
                 <ul class="footer-menu d-flex flex-wrap">
                     <li class="footer-menu-item"><a href="about.php" class="footer-menu-link">About us</a></li>
 
-                    <li class="footer-menu-item"><a href="#" class="footer-menu-link">Privacy policy</a></li>
+                    <li class="footer-menu-item"><a href="privacyPolicy.php" class="footer-menu-link">Privacy policy</a></li>
 
                     <li class="footer-menu-item"><a href="faq.php" class="footer-menu-link">FAQs</a></li>
 
